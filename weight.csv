@@ -1,7 +1,7 @@
-Age,Fever,Cefalea,Pain BE,Myalgias,Arthralgias,Rash,Abd pain,Vomito,Lethargy,Hypotens,Hepat,Muc. Hemo,Hypoterm,High hem,Low plat,Edema,Extrav,Bleeding,Shock,Org. fail,Dengue
+edad_,fiebre,cefalea,dolrretroo,malgias,artralgia,erupcionr,dolor_abdo,vomito,somnolenci,hipotensio,hepatomeg,hem_mucosa,hipotermia,aum_hemato,caida_plaq,acum_liquievento,extravasac,hemorr_hem,choque,daño_organ,dengue
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08
-0,0,0,0.0300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
+0,0,0,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09
